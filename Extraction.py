@@ -2,8 +2,8 @@ import boto3
 import os
 
 
-aws_access_key_id = 'AKIAT2STSDQYRMWAHOIC'
-aws_secret_access_key = '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'
+aws_access_key_id = 'AK2STSDQYRMWAHOIC'
+aws_secret_access_key = 'WLbsU6nqfXpDs2EZBEJ4bKZ0aimpV2Fdl3P9'
 region_name = 'us-east-1'
 
 
