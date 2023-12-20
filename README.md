@@ -20,5 +20,8 @@ The goal of this project is to effectively manage, streamline, and analyze struc
 5. AWS Lambda: Serverless computing service enabling code execution without server management.
 6. AWS Athena: Interactive query service for S3, allowing querying of data directly without the need for data loading.
 
+   ![image](https://github.com/omsai770222/Youtube_Data_Analytics/assets/67456061/6abbe4a4-1dae-42d9-bb3f-82eed149a36a)
+
+
 ## Data
 The dataset sourced from Kaggle contains daily statistics in CSV format for popular YouTube videos spanning multiple months. Each day may have up to 200 trending videos per location, with each region having its data file. Information includes video titles, channel titles, publication times, tags, views, likes, dislikes, descriptions, comment counts, and region-specific category IDs in linked JSON files.
