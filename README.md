@@ -26,4 +26,8 @@ The goal of this project is to effectively manage, streamline, and analyze struc
 
 
 ## Data
-The dataset sourced from Kaggle contains daily statistics in CSV format for popular YouTube videos spanning multiple months. Each day may have up to 200 trending videos per location, with each region having its data file. Information includes video titles, channel titles, publication times, tags, views, likes, dislikes, descriptions, comment counts, and region-specific category IDs in linked JSON files.
+The dataset sourced from Kaggle contains daily statistics in CSV format for popular YouTube videos spanning multiple months. Each day may have up to 200 trending videos per location, with each region having its data file. Information includes video titles, channel titles, publication times, tags, views, likes, dislikes, descriptions, comment 
+counts, and region-specific category IDs in linked JSON files.
+
+[Dataset Link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
+
