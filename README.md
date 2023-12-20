@@ -20,7 +20,9 @@ The goal of this project is to effectively manage, streamline, and analyze struc
 5. AWS Lambda: Serverless computing service enabling code execution without server management.
 6. AWS Athena: Interactive query service for S3, allowing querying of data directly without the need for data loading.
 
-   ![image](https://github.com/omsai770222/Youtube_Data_Analytics/assets/67456061/6abbe4a4-1dae-42d9-bb3f-82eed149a36a)
+## Architecture
+
+![image](https://github.com/omsai770222/Youtube_Data_Analytics/assets/67456061/6abbe4a4-1dae-42d9-bb3f-82eed149a36a)
 
 
 ## Data
